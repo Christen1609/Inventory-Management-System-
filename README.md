@@ -50,28 +50,28 @@ Key features include:
    ```bash
    git clone <repository-url>
    cd management-alert-tool
-2.Install dependencies:
+2. Install dependencies:
 
-    npm install
-
-
-3.Start MongoDB server locally:
-
-    mongod
+       npm install
 
 
-4.Run the Node.js server:
+3. Start MongoDB server locally:
 
-    node server.js
+       mongod
 
 
-5.Open in browser:
+4. Run the Node.js server:
 
-    http://localhost:3000
+       node server.js
+
+
+5. Open in browser:
+
+       http://localhost:3000
 
 ---
 
-##Results & Highlights
+## Results & Highlights
 
 Alerts: Automatic notifications for low-stock items.
 
